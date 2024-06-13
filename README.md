@@ -3,5 +3,5 @@ TODO:
 - [x] Obtain videos and images with their OP info
 - [x] Store in dataFrame and export to csv
 - [ ] Fix bad src links
-- [ ] Fix untimely breaking of scroll
+- [x] Fix untimely breaking of scroll
 - [ ] Download media and include a path in the csv
